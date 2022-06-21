@@ -20,3 +20,5 @@ fields:
     schema:
       format: markdown
   label: Blurb
+pages:
+- content/danny-davies-visual-artist.md
